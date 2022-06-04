@@ -1,0 +1,1 @@
+export const URL_API = 'https://noble-vortex-351514-default-rtdb.firebaseio.com'
